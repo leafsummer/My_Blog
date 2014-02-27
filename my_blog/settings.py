@@ -4,7 +4,7 @@ import os
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 # See https://docs.djangoproject.com/en/1.5/ref/settings/#allowed-hosts
-ALLOWED_HOSTS = ['.laike9m.com']
+ALLOWED_HOSTS = ['.laike9m.com', '.laike9m.webfactional.com']
 
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
